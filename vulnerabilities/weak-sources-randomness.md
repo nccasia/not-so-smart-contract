@@ -10,6 +10,9 @@ To avoid miner manipulation in random number generation, there are a few solutio
 - External sources via oracles, e.g. Oraclize.
 - Using Bitcoin block hashes, as the network is more decentralized and blocks are more expensive to mine.
 
+### Example
+
+- [./bad_randomness/README.md](./bad_randomness/README.md)
 ### Sources
 
 - https://swcregistry.io/docs/SWC-120
